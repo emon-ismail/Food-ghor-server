@@ -1,0 +1,158 @@
+[
+    {
+        
+        "service_id": "04",
+        "title": "Burger",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Hamburger_%28black_bg%29.jpg/800px-Hamburger_%28black_bg%29.jpg",
+        "price": "120.00",
+        "description": "Order your favourite Burgers in Chittagong with foodpanda ✓ Super fast food delivery to your home or office ✓ Safe & easy payment options.",
+        "facility": [
+            {
+                "name": "Instant delivery",
+                "details": "Get food ,drink,etc essentials and more delivered to your door by a Shipt shopper today with Same Day Delivery. Whatever your foods needs are, Target offers "
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "We believe in quality"
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "your money our service.we provide best service"
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "quality is gold for us"
+            }
+        ]
+    },
+    {
+       
+        "service_id": "05",
+        "title": "Pizza",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/800px-Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+        "price": "200.00",
+        "description": "Buy a family size pizza and get 1 family pizza absolutely free (T & C apply) Buy family size pizza and get 1 family pizza absolutely free (T & C apply) Order Online. Store Locator. Register Online.",
+        "facility": [
+            {
+                "name": "Instant delivery",
+                "details": "Get food ,drink,etc essentials and more delivered to your door by a Shipt shopper today with Same Day Delivery. Whatever your foods needs are, Target offers "
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "We believe in quality"
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "your money our service.we provide best service"
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "quality is gold for us"
+            }
+        ]
+    },
+    {
+       
+        "service_id": "01",
+        "title": "Biryani",
+        "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/hyderabadi-biryani-recipe-chicken.jpg",
+        "price": "300.00",
+        "description": "Order at  food ghor Bangladesh near you with foodpanda ✓ Delivery to your home or office ✓ Safe & easy payment options.",
+        "facility": [
+            {
+                "name": "Instant delivery",
+                "details": "Get food ,drink,etc essentials and more delivered to your door by a Shipt shopper today with Same Day Delivery. Whatever your foods needs are, Target offers "
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "We believe in quality"
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "your money our service.we provide best service"
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "quality is gold for us"
+            }
+        ]
+    },
+    {
+        
+        "service_id": "02",
+        "title": "Kalavhuna",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nqlmVwOpSDNwlhrbOLD3RyC-uj-nkz1DBtUXVa43pOZlGhocGkoUqoWGST1BEjGGPAE&usqp=CAU",
+        "price": "150.00",
+        "description": "Enjoy our Beef Kala Bhuna and forget the ones you had so far. We truly cook super delicious Beef Kala Bhuna to make you say WoW in your first attempt.",
+        "facility": [
+            {
+                "name": "Instant delivery",
+                "details": "Get food ,drink,etc essentials and more delivered to your door by a Shipt shopper today with Same Day Delivery. Whatever your foods needs are, Target offers "
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "We believe in quality"
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "your money our service.we provide best service"
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "quality is gold for us"
+            }
+        ]
+    },
+    {
+      
+        "service_id": "03",
+        "title": "Morog Polao",
+        "img": "https://www.deshcatering.com/wp-content/uploads/2020/09/morog-polao-kabab.jpg",
+        "price": "30.00",
+        "description": "Order your favorite food from Tehari Bhai Now in Banasree. Best food from Tehari Bhai near ... Delivery Time: Pre Order ... Shahi Special Morog Polao.",
+        "facility": [
+            {
+                "name": "Instant delivery",
+                "details": "Get food ,drink,etc essentials and more delivered to your door by a Shipt shopper today with Same Day Delivery. Whatever your foods needs are, Target offers "
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "We believe in quality"
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "your money our service.we provide best service"
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "quality is gold for us"
+            }
+        ]
+    },
+    {
+       
+        "service_id": "06",
+        "title": "Bagun Vhorta",
+        "img": "https://i0.wp.com/cookingcanary.com/wp-content/uploads/2022/07/Begun-egglant-bhorta-.jpg?resize=600%2C800&ssl=1",
+        "price": "160.00",
+        "description": "A widely popular dish from the bangladeshi cuisine, begun bhorta (spicy mashed eggplant) is an easy recipe packed with bold flavours cooked with aromatic",
+        "facility": [
+            {
+                "name": "Instant delivery",
+                "details": "Get food ,drink,etc essentials and more delivered to your door by a Shipt shopper today with Same Day Delivery. Whatever your foods needs are, Target offers "
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "We believe in quality"
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "your money our service.we provide best service"
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "quality is gold for us"
+            }
+        ]
+    }
+]
