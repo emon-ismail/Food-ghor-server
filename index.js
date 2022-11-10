@@ -37,7 +37,7 @@ async function run() {
         });
 
 
-        // orders api
+        // reviews api
         app.get('/reviews', async (req, res) => {
             let query = {};
 
