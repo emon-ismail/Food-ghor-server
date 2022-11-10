@@ -1,5 +1,4 @@
 
-
 const express = require('express');
 const cors = require('cors');
 const { MongoClient, ServerApiVersion, ObjectId } = require('mongodb');
@@ -24,7 +23,7 @@ async function run() {
         const serviceCollection = client.db('food').collection('services');
         const reviewCollection = client.db('food').collection('reviews');
 
-        
+       //services 
 
         app.get('/services', async (req, res) => {
             const query = {}
@@ -47,9 +46,7 @@ async function run() {
             res.send(result);
         });
 
-
-
-        // reviews api
+ // reviews api
         app.get('/reviews', async (req, res) => {
             let query = {};
 
@@ -65,8 +62,6 @@ async function run() {
         });
 
         //post
-
-    
 
         app.post('/services  ', async (req, res) => {
             const services = req.body;
