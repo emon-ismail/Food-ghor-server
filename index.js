@@ -12,7 +12,9 @@ const port = process.env.PORT || 5000;
 app.use(cors());
 app.use(express.json());
 
-const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASSWORD}@cluster0.twtll.mongodb.net/?retryWrites=true&w=majority`;
+
+// const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASSWORD}@cluster0.twtll.mongodb.net/?retryWrites=true&w=majority`;
+const uri = "mongodb+srv://foodghor:VyAKqH1Z2M9Yhktp@cluster0.ww1mwol.mongodb.net/?retryWrites=true&w=majority";
 
 
 const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true, serverApi: ServerApiVersion.v1 });
@@ -21,6 +23,18 @@ async function run() {
     try {
         const serviceCollection = client.db('food').collection('services');
         const reviewCollection = client.db('food').collection('reviews');
+// try{
+//     const user={
+//         name:'testing',
+//         email:'test@gmail.com'
+//     }
+//     const result=await reviewCollection.insertOne(user);
+//     console.log(result)
+// }
+// finally{
+
+// }
+        
 
         app.get('/services', async (req, res) => {
             const query = {}
@@ -52,9 +66,11 @@ async function run() {
             res.send(reviews);
         });
 
-        app.post('/reviews', async (req, res) => {
-            const order = req.body;
-            const result = await orderCollection.insertOne(order);
+        //post
+
+        app.post('/reviews  ', async (req, res) => {
+            const review = req.body;
+            const result = await reviewCollection.insertOne(review);
             res.send(result);
         });
 
